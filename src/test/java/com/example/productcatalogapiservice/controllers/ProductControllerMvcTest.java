@@ -3,7 +3,6 @@ package com.example.productcatalogapiservice.controllers;
 import com.example.productcatalogapiservice.dtos.ProductDto;
 import com.example.productcatalogapiservice.models.Product;
 import com.example.productcatalogapiservice.services.IProductService;
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
